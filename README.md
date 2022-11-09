@@ -1,2 +1,2 @@
 # printer-menu
-CLI-based printer menu
+CLI-based printer menu using CUPS
